@@ -1,0 +1,13 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "author": "Marjan",
+  "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  }
+
+}
